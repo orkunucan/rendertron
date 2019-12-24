@@ -4,5 +4,8 @@
   "search.useIgnoreFiles": false,
   "search.exclude": {
     "node_modules/": true
-  }
+  },
+  "javascript.format.placeOpenBraceOnNewLineForFunctions": false,
+  "typescript.format.placeOpenBraceOnNewLineForControlBlocks": false,
+  "typescript.format.placeOpenBraceOnNewLineForFunctions": false
 }
